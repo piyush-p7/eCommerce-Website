@@ -52,13 +52,13 @@
                     <h3>Air Conditionar</h3>
                     <p>Whirlpool 4 in 1 Convertible Cooling 1.5 Ton 5 Star Split Inverter AC - White (1.5T MAGICOOL
                         CONVERT PRO 5S INV (N)-O/I, Copper Condenser)</p>
-                    <a href="services.html">Shop Now</a>
+                    <a href="services.php">Shop Now</a>
                 </div>
             </div>
         </div>
     </div>
     <div class="explore">
-        <a href="services.html">Explore More</a>
+        <a href="services.php">Explore More</a>
     </div>
 
     <hr>
