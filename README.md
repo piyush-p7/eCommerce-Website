@@ -1,2 +1,2 @@
 # eCommerce-Website
-Using PHP and 'JavaScript'
+Using PHP and JavaScript
